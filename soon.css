@@ -1,0 +1,99 @@
+*{
+    background: linear-gradient(350deg, #031d00, #0a0101, #000000);
+    color: rgb(237, 148, 15);
+    font-family: "Kode Mono", monospace; 
+    
+}
+.cd{
+    text-align: center;
+}
+.contenedor {
+    display: flex;
+    justify-content: left; /* Centrar horizontalmente */
+    align-items: left; /* Centrar verticalmente */
+    height: 300px; /* Altura del contenedor */
+    border-radius: 20px;
+}
+
+.contenedor img {
+    max-width: 100%; /* Para que la imagen no exceda el ancho del contenedor */
+    max-height: 100%; /* Para que la imagen no exceda la altura del contenedor */
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor p {
+    font-size: 20px;
+    flex: 1; /* Permitir que el texto ocupe todo el espacio disponible */
+}
+.contenedor2 {
+    display: flex;
+    justify-content: left; /* Centrar horizontalmente */
+    align-items: left; /* Centrar verticalmente */
+    height: 300px; /* Altura del contenedor */
+    border-radius: 20px;
+}
+
+.contenedor2 img {
+    max-width: 100%; /* Para que la imagen no exceda el ancho del contenedor */
+    max-height: 100%; /* Para que la imagen no exceda la altura del contenedor */
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor2 p {
+    font-size: 20px;
+    flex: 1; /* Permitir que el texto ocupe todo el espacio disponible */
+}
+.contenedor3 {
+    display: flex;
+    justify-content: left; /* Centrar horizontalmente */
+    align-items: left; /* Centrar verticalmente */
+    height: 300px; /* Altura del contenedor */
+    border-radius: 20px;
+}
+
+.contenedor3 img {
+    max-width: 100%; /* Para que la imagen no exceda el ancho del contenedor */
+    max-height: 100%; /* Para que la imagen no exceda la altura del contenedor */
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor3 p {
+    font-size: 20px;
+    flex: 1; /* Permitir que el texto ocupe todo el espacio disponible */
+}
+.contenedor4 {
+    display: flex;
+    justify-content: left; /* Centrar horizontalmente */
+    align-items: left; /* Centrar verticalmente */
+    height: 300px; /* Altura del contenedor */
+    border-radius: 20px;
+}
+
+.contenedor4 img {
+    max-width: 100%; /* Para que la imagen no exceda el ancho del contenedor */
+    max-height: 100%; /* Para que la imagen no exceda la altura del contenedor */
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor4 p {
+    font-size: 20px;
+    flex: 1; /* Permitir que el texto ocupe todo el espacio disponible */
+}
+.contenedor5 {
+    display: flex;
+    justify-content: left; /* Centrar horizontalmente */
+    align-items: left; /* Centrar verticalmente */
+    height: 300px; /* Altura del contenedor */
+    border-radius: 20px;
+}
+
+.contenedor5 img {
+    max-width: 100%; /* Para que la imagen no exceda el ancho del contenedor */
+    max-height: 100%; /* Para que la imagen no exceda la altura del contenedor */
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor5 p {
+    font-size: 20px;
+    flex: 1; /* Permitir que el texto ocupe todo el espacio disponible */
+}

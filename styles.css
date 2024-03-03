@@ -1,0 +1,74 @@
+*{
+  font-family: "Kode Mono", monospace;
+  background: linear-gradient(350deg, #031d00, #0a0101, #000000);
+  color: #ffffff;
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+  margin: 0;
+  padding: 50px;
+}
+
+.icon2{
+  height: 50px;
+  width: 50px;
+}
+header {
+  font-family: "Kode Mono", monospace;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  border-radius: 0cqmax;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  border: 2px black solid;
+  border-radius: 5px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.anime-section {
+  color: #ffffff;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(238, 233, 233, 0.1);
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.container{
+  max-width: 1500px;
+  margin:auto;
+}
+
+
+.buttons a{
+
+  color: #ffffff;
+ 
+}
+
+.YO a{
+  float: right;
+}
